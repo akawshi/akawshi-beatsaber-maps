@@ -1,8 +1,9 @@
 {
-    "videoID": "G2w5sAka7tI",
-    "title": "1992年 日本食研 晩餐館 CM",
-    "author": "日本食研",
-    "videoFile": "1992年 日本食研 晩餐館 CM.mp4",
+    //removed some data
+    "videoID": "",
+    "title": "",
+    "author": "",
+    "videoFile": "",
     "duration": 29,
     "offset": -2155,
     "configByMapper": false
