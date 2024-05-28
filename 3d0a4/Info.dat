@@ -1,6 +1,7 @@
 {
   "_version" : "2.1.0",
-  "_songName" : "晩餐館CM",
+  //songName is removed
+  "_songName" : "", 
   "_songSubName" : "",
   "_songAuthorName" : "",
   "_levelAuthorName" : "akawshi",
