@@ -39,7 +39,10 @@
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
-            "_difficultyLabel" : "Amakuchi"
+            "_difficultyLabel" : "Amakuchi",
+            "_suggestions" : [
+              "Cinema"
+            ]
           }
         }
       ]
@@ -51,12 +54,15 @@
           "_difficulty" : "Hard",
           "_difficultyRank" : 5,
           "_beatmapFilename" : "HardLawless.dat",
-          "_noteJumpMovementSpeed" : 15,
+          "_noteJumpMovementSpeed" : 14,
           "_noteJumpStartBeatOffset" : 0,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
-            "_difficultyLabel" : "Chukara"
+            "_difficultyLabel" : "Chukara",
+            "_suggestions" : [
+              "Cinema"
+            ]
           }
         },
         {
@@ -68,7 +74,10 @@
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
-            "_difficultyLabel" : "Ponzu"
+            "_difficultyLabel" : "Ponzu",
+            "_suggestions" : [
+              "Cinema"
+            ]
           }
         }
       ]
