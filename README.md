@@ -26,7 +26,7 @@ Beat Saver 上から削除されたデータについては, こちらで公開�
 
 Beat Saver 上のデータについては, Beat Saver のライセンスが適用されます  
   
-当データの利用につき, akawshi への許諾連絡や謝礼等は一切要りません  
+当データの利用につき, akawshi への事前または事後の連絡は一切要りません  
 
 ## 連絡先  
 ご質問や修正/提案などのご意見がありましたら, [issue](https://github.com/akawshi/akawshi-beatsaber-maps/issues) でお気軽にお問い合わせください  
