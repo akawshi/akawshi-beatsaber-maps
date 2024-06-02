@@ -1,0 +1,52 @@
+# The first Section are global Options.
+
+# This sets the Mod Support. Remember to also set the Requirements in the Info.dat
+modtype: ME
+# This sets the target Difficulty.
+Characteristic: Lawless
+Difficulty: Hard
+# This is the HJD. It allows Beatwalls to automatically time walls to the Beat
+halfJumpDuration: 2.0
+
+
+# This is an example File of a .bw file. 
+# Guide: https://spooky.moe/beatwalls
+
+# Lines starting with an # are Comments and will get ignored
+
+# -----------------------------------
+# INTRO
+# ----------------------------------
+
+# We only use NE
+# so we can use the Rectangletype for all curves and helix
+
+
+# -----------------------------------
+#  First Chorus
+# ----------------------------------
+
+Line:
+    beat: 5+r*d
+    p0: 3,3.5,0
+    p1: -3,5,1
+    mirror: 2
+    duration: 1
+    repeat: 376
+    color: orange
+
+
+
+# -----------------------------------
+# Now we start Swinging!
+# ----------------------------------
+
+# Time for a more advanced Part
+# We create 4 helix each with mirror 6
+# and let them join in each other
+
+
+# Resetting the helix interface
+interface helix:
+
+    
